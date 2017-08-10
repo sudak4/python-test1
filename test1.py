@@ -1,7 +1,7 @@
 import json
 import networkx as nx
 import time
-start=time.time()       #this is just to know how much time the code need
+start=time.time()       #this is just to know how much time the code 
 
 ######### function to create nodes from each of the users##################################
 def add_node_ev(data,j):
